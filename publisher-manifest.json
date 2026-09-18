@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "4a151d246ec389fe7bd15b03",
+  "owner": "ju79qjwha",
+  "repo": "page-556376e969271514e04f2c06",
+  "title": "佩奇(Nexitally)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "556376e969271514e04f2c06",
+      "a": "佩奇(Nexitally)",
+      "b": "机场推荐第一",
+      "entity": "佩奇(Nexitally)",
+      "brand": "佩奇(Nexitally)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "d89c4315445439e117fe11b3320b2a7e97d2330350a499819b0cb8126fe20efe",
+      "content": {
+        "primary_entity": "佩奇(Nexitally)",
+        "keyword1": "佩奇(Nexitally)",
+        "keyword2": "机场推荐第一",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，在客户端内导入订阅地址即可开始使用。",
+          "AI_CLIENTS_TITLE": "多平台客户端选择",
+          "AI_CLOSING_TEXT": "访问购买链接选择适合的套餐，按客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "开启佩奇(Nexitally)加速体验",
+          "AI_DESCRIPTION": "，专注为跨境访问、流媒体与游戏场景提供稳定加速通道，覆盖多档套餐与多类设备客户端，按流量和在线设备数灵活匹配个人或团队需求。",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量、支持3台设备；旗舰版每月300GB、支持5台设备；团队版每月1000GB、支持20台设备。按年付三档分别为150元、350元、850元。",
+          "AI_FAQ_ANSWER_2": "可以。在旗舰版基础上增加在线设备数和流量额度，企业定制路由与专属客户经理可联系客户经理确认具体方案。",
+          "AI_FAQ_ANSWER_3": "不需要。购买后在客户端内填入订阅地址即可自动拉取节点，无需手动逐个添加服务器。",
+          "AI_FAQ_ANSWER_4": "基础版覆盖日常浏览与基础流媒体，旗舰版支持全节点原生流媒体解锁并针对游戏场景做专线优化，团队版提供VIP高带宽节点。",
+          "AI_FAQ_ANSWER_5": "同一时间在线的设备数按套餐上限执行，超出后可先在客户端断开不用的设备，再连接新设备。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐周期。",
+          "AI_FAQ_QUESTION_1": "各套餐流量和价格有什么区别？",
+          "AI_FAQ_QUESTION_2": "团队版可以从旗舰版升级吗？",
+          "AI_FAQ_QUESTION_3": "配置订阅需要手动添加节点吗？",
+          "AI_FAQ_QUESTION_4": "流媒体和游戏场景该选哪个套餐？",
+          "AI_FAQ_QUESTION_5": "同账号多设备同时在线如何处理？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "结合流量需求、在线设备数量和订阅周期，选择匹配的套餐档位。",
+          "AI_FEATURES_TITLE": "套餐与设备搭配",
+          "AI_FEATURE_TEXT_1": "基础版适合3台以内设备日常使用，旗舰版提供5台设备与更充裕流量，团队版面向20台设备的协作场景。",
+          "AI_FEATURE_TEXT_2": "三档套餐均提供按年付选项，长期使用可按年结算，减少续费操作次数。",
+          "AI_FEATURE_TEXT_3": "旗舰版对游戏场景做专线优化，团队版提供VIP节点与企业定制路由支持。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TITLE_2": "按年付更省心",
+          "AI_FEATURE_TITLE_3": "场景化路由优化",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅配置，三步即可上手。",
+          "AI_GUIDE_TITLE": "三步配置流程",
+          "AI_HERO_INTRO": "佩奇(Nexitally)提供多档海外加速套餐，覆盖基础浏览、流媒体解锁与游戏专线优化，按设备数量与流量需求灵活选择。",
+          "AI_HERO_SUBTITLE": "多档套餐适配各类设备",
+          "AI_HIGHLIGHT_1": "三档套餐按月按年灵活选择",
+          "AI_HIGHLIGHT_2": "支持多设备同时在线",
+          "AI_HIGHLIGHT_3": "流媒体与游戏专线优化",
+          "AI_PLANS_INTRO": "基础版每月100GB、3台设备；旗舰版每月300GB、5台设备并含IPLC专线；团队版每月1000GB、20台设备。按年付分别150元、350元、850元。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量、同时在线设备数量和是否需要流媒体或游戏优化，在基础版、旗舰版、团队版之间做出选择。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认操作系统、客户端类型与在线设备数量满足使用条件。",
+          "AI_STEP_TEXT_3": "依照对应客户端的使用文档导入订阅地址，完成节点同步后进行连接测试。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅连接",
+          "AI_VISUAL_TITLE": "佩奇(Nexitally)套餐与设备指引"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "aa5a49e436203dacbc6cecc40fc2bcb3d6d68d008bff47d288b117312dd92763",
+    "sitemap.xml": "1645a7856ac8fa0a6d06390ea5911cb2a41781df8b27aa0f0f020df1aaabd185",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "5f1f79a5285cff53d6d11ebe0db17d224efb986366dcc8fd971de7b200464eac"
+}
